@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/priyanshch1105](https://github.com/priyanshch1105)
 
-- 💬 Ask me about **Data Analyst,**
+- 💬 Ask me about **Data Analyst,Android development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

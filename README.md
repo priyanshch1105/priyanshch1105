@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/priyanshch93746" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyanshch93746" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/priyansh-chaurasiya-ab7236287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyansh-chaurasiya-ab7236287/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/priyansh-chaurasiya-ab7236287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyansh-chaurasiya-ab7236287/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/priyanshch1105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshch1105" height="30" width="40" /></a>
 </p>
 

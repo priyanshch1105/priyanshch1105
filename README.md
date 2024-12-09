@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **python,java**
 
-- 📫 How to reach me **https://www.linkedin.com/in/priyansh-chaurasiya-ab7236287 or priyanshchourasiya000@gmail.com**
+- 📫 How to reach me **linkedin:- https://www.linkedin.com/in/priyansh-chaurasiya-ab7236287 or Email:- priyanshchourasiya000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
